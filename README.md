@@ -22,7 +22,8 @@ NPM INSTALL -> NPM RUN
 # 2. Prolouge
 - 신용에 대한 개념 및 설명
 - 신용 등급에 대한 개념 및 설명
-<img width="1496" alt="스크린샷 2020-05-04 오후 10 01 02" src="https://user-images.githubusercontent.com/62536330/80968370-cf069900-8e52-11ea-95b4-0ec5653f7563.png">
+<img width="1598" alt="스크린샷 2020-05-04 오후 10 00 39" src="https://user-images.githubusercontent.com/62536330/80968606-37ee1100-8e53-11ea-8476-e12a3a07e590.png">
+
 
 
 # 3. Analysis 
