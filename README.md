@@ -1,7 +1,7 @@
 # VueJS-Credit
 VueJS를 활용한 Credit
 2020.04
-Youtube: https://www.youtube.com/watch?v=-EsIAYE_Xiw
+Youtube:https://www.youtube.com/watch?v=hpR3URIMRro
 
 # 환경
 CHROME - VUEJS
